@@ -1,6 +1,6 @@
 # Turkish Food Analysis
 
-This repository contains the food-classification part of the study described in `paper.pdf`, **A Hybrid CNN–MLLM Architecture for Image-Based Nutrition Estimation and Advisory Insulin Decision Support in Type 1 Diabetes**.
+This repository contains the food-classification part of the study described in paper entitled, **A Hybrid CNN–MLLM Architecture for Image-Based Nutrition Estimation and Advisory Insulin Decision Support in Type 1 Diabetes**.
 
 The code in this folder trains and evaluates three CNN backbones for Turkish food image classification:
 
