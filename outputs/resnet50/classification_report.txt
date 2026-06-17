@@ -1,0 +1,46 @@
+                    precision    recall  f1-score   support
+
+       Adana Kebap       0.90      0.93      0.92        61
+             Aşure       0.89      0.99      0.94       291
+           Baklava       0.91      0.97      0.94       178
+       Beyaz Ekmek       0.88      0.90      0.89       136
+     Bulgur Pilavı       0.91      0.89      0.90       106
+             Börek       0.96      0.92      0.94       330
+       Esmer Ekmek       0.76      0.85      0.80       136
+  Ezogelin Çorbası       0.80      0.76      0.78       129
+           Gözleme       0.96      0.93      0.94       146
+         Hamburger       0.92      0.95      0.94       106
+ Haşlanmış Yumurta       0.92      0.94      0.93        64
+           Kadayıf       0.91      0.82      0.86       118
+        Karnıyarık       0.95      0.96      0.95       196
+            Kumpir       0.93      0.86      0.90        65
+      Kuru Fasulye       0.80      0.76      0.78        58
+             Köfte       0.89      0.77      0.83        62
+            Künefe       0.78      0.83      0.80        54
+             Kısır       0.93      0.97      0.95       104
+          Lahmacun       0.96      0.92      0.94       116
+             Mantı       0.94      0.97      0.95        86
+           Menemen       0.92      0.86      0.89        51
+  Mercimek Çorbası       0.77      0.86      0.81       144
+      Mısır Ekmeği       0.94      0.66      0.78        68
+             Nohut       0.77      0.77      0.77        60
+  Pastane Poğaçası       0.86      0.89      0.88       103
+Patates Kızartması       0.97      0.97      0.97        70
+              Pide       0.93      0.92      0.93       118
+     Pirinç Pilavı       0.97      0.97      0.97        67
+            Revani       0.93      0.95      0.94       108
+            Sütlaç       0.97      0.96      0.96       232
+   Tarhana Çorbası       0.70      0.66      0.68        90
+             Tavuk       0.81      0.72      0.76        60
+       Tavuk Döner       0.77      0.77      0.77        61
+   Tulumba Tatlısı       0.97      0.95      0.96        60
+      Yaprak Sarma       0.96      0.97      0.96        90
+      Yulaf Ekmeği       0.83      0.73      0.78        60
+         Çiğ Köfte       0.94      0.94      0.94       132
+          İskender       0.85      0.83      0.84        63
+           Şakşuka       0.93      0.90      0.92        60
+         Şekerpare       0.93      0.93      0.93       192
+
+          accuracy                           0.90      4431
+         macro avg       0.89      0.88      0.88      4431
+      weighted avg       0.90      0.90      0.90      4431
