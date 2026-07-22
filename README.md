@@ -72,7 +72,7 @@ The class folder names become the label names used during training and evaluatio
 
 The dataset used in this study is not publicly available. Access can be requested through institutional email. Here is the contact email:
 
-- jean.chrinot@gmail.com
+- jamil138.amin@gmail.com
 
 ## Training
 
@@ -128,3 +128,28 @@ The manuscript frames the work as an AI-assisted diabetes-care pipeline that est
 ## Reproducibility
 
 The exact results reported in the paper depend on the dataset split, image preprocessing, and the availability of pretrained weights. If you retrain the models, keep the train/validation folder structure and class names consistent across runs.
+
+## Citation
+
+If you find this repository or our research helpful in your work, please consider citing our paper:
+
+### IEEE Style:
+
+J. C. Velombe, S. Bayraktar, A. Kavak, M. Jamil, A. B. İçnner, G. Srivastava, and H. Fotouhi, "A Hybrid CNN–MLLM Architecture for Image-Based Nutrition Estimation and Advisory Insulin Decision Support in Type 1 Diabetes," Nutrients, vol. 18, no. 13, p. 2205, 2026.
+
+### bibtex:
+
+```bibtex
+@article{velombe2026hybrid,
+  title={A Hybrid CNN--MLLM Architecture for Image-Based Nutrition Estimation and Advisory Insulin Decision Support in Type 1 Diabetes},
+  author={Velombe, Jean Chrinot and Bayraktar, Sema and Kavak, Adnan and Jamil, Muhammad and {\.I}nner, Alpaslan Burak and Srivastava, Gautam and Fotouhi, Hossein},
+  journal={Nutrients},
+  volume={18},
+  number={13},
+  pages={2205},
+  year={2026},
+  publisher={MDPI}
+}
+```
+
+We appreciate your support and welcome citations of our work if it contributes to your research.
